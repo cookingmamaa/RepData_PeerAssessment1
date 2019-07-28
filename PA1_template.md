@@ -37,7 +37,7 @@ print(histogram_2)
 
     ## Warning: Removed 8 rows containing non-finite values (stat_bin).
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![test](/figures/histogram_2.png)
 
 ### 3: Mean and median number of steps taken each day
 
