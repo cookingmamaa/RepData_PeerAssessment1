@@ -1,3 +1,9 @@
+---
+title: "PA1_template - Reproducible Research"
+author: "Alistair Acheson"
+date: "7/28/2019"
+---
+
 ### Importing packages
 
 ``` r
@@ -226,7 +232,7 @@ ggplot(step_sum_by_date_na, aes(x = stepsum)) +
     theme(legend.position = "none")
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![test](/figures/7.png)
 
 Calculating the mean and median steps after missing data imputed
 
@@ -342,4 +348,4 @@ panel_plot <- ggplot(activity_factor_grouped, aes(x = interval, y = mean)) +
 print(panel_plot)
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-15-1.png)
+![test](/figures/8.png)
