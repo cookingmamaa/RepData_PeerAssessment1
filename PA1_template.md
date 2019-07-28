@@ -130,7 +130,7 @@ ggplot(step_sum_by_interval_mm, aes(x = interval, y = mean)) +
          x = "Interval", y = "Mean number of steps")
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![test](/figures/4.png)
 
 ### 5: The 5-minute interval that, on average, contains the maximum number of steps
 
