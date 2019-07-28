@@ -44,6 +44,7 @@ histogram_2 <- ggplot(step_sum_by_date, aes(x = stepsum)) +
     
 print(histogram_2)    
 ```
+![test](/figures/histogram_2.png)
 
 ### 3: Mean and median number of steps taken each day
 
